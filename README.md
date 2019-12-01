@@ -69,3 +69,8 @@ O comando `h` mostra novamente a lista de mensagens
 
 É possível deletar a mensagem digitando `d <número>`
 ![Mail](/images/mail_delete.png)
+
+Digite `q` para sair da interface
+
+## Manipulando os arquivos
+Os dados de envio e recebimento estão disponíveis em `~/Maildir/` dentro desse diretorio é possível encontrar os dados necessários para os testes.
