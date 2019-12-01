@@ -13,7 +13,7 @@ O acesso será feito via ***ssh*** e é possível usar [CLI](https://www.suse.co
 para operar o sistema.
 
 ## Acesso
-1. Instalação do openssh-client 
+1. `ssh usuario@ip`
     1. requisitar acesso para o professor ou ao estudante responsável.
 1. Acessar e checar se todos os pré-requisitos instalados, solicitar instalação caso necessária.
     1. Checar se existe uma pasta chamada **Maildir**, `ls`
