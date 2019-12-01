@@ -15,6 +15,7 @@ para operar o sistema.
 ## Acesso
 1. `ssh usuario@ip`
     1. requisitar acesso para o professor ou ao estudante responsável.
+
 1. Acessar e checar se todos os pré-requisitos instalados, solicitar instalação caso necessária.
     1. Checar se existe uma pasta chamada **Maildir**, `ls`
     ![Comando ls](/images/ls.png)
@@ -27,5 +28,9 @@ para operar o sistema.
     O envio pode ser feito de duas formas, linha de comando ou pela Telnet.
     
 ### Command Line
+    `cat <caminho do txt> | mail -s '<assunto>' -r <remetente> <user@email.com>`
+    -s: Assunto do email
+    -r: Remetente, por padrão será o usuário em que está logado.
+    user@email.com: A conta que se deseja enviar o email. Caso deseje enviar para outro usuário basta colocar user@ubuntu16046 (ex.: admin@ubuntu16046).
 
 ### Telnet
