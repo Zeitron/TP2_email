@@ -45,11 +45,17 @@ Basta ter um arquivo txt com o conteudo que você deseja enviar e executar o seg
 Forma um pouco mais complicada, primeiro é necessário entrar na interface Telnet
 ![Interface Telnet](/images/telnet.png)
 
-Depois é preciso logar no usuário
+Depois é preciso logar no usuário, digitando EHLO <usuário>
 ![Login Telnet](/images/telnet_login.png)
 
-Remetente e Destinatário
+Usar os comandos `mail from: <email>` e `rcpt to: <email>`
 ![Remetente Telnet](/images/telnet_remetente.png)
 
-Conteudo do Texto
+Para escrever a mensagem usaremos date para iniciar o texto e completaremos de acordo com o exemplo
+usando o simbolo `.` sozinho seguido de ENTER para terminar a mensagem
 ![Email Telnet](/images/telnet_email.png)
+
+
+## Visualizando E-Mails
+
+Para visualizar e-mails na maquina usaremos o comando `mail` na qual seremos levados a interface de mail
