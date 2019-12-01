@@ -11,5 +11,6 @@ para operar o sistema.
 1. Acessar e checar se todos os pré-requisitos instalados, solicitar instalação caso necessária.
     1. Checar se existe uma pasta chamada Maildir
     ![Comando LS](/ls.png)
-Format: ![Alt Text](url) 
+    1. Caso **não** exista executar o comando `mkdir Maildir`
+    
     1. 
