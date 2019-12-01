@@ -59,3 +59,13 @@ usando o simbolo `.` sozinho seguido de ENTER para terminar a mensagem
 ## Visualizando E-Mails
 
 Para visualizar e-mails na maquina usaremos o comando `mail` na qual seremos levados a interface de mail
+![Mail](/images/mail.png)
+
+Então é possível selecionar a mensagem digitando o número dela
+![Mail](/images/mail_select.png)
+
+O comando `h` mostra novamente a lista de mensagens
+![Mail](/images/mail_display.png)
+
+É possível deletar a mensagem digitando `d <número>`
+![Mail](/images/mail_delete.png)
