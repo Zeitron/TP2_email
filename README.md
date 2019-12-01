@@ -10,6 +10,6 @@ para operar o sistema.
     1. requisitar acesso para o professor ou ao estudante responsável.
 1. Acessar e checar se todos os pré-requisitos instalados, solicitar instalação caso necessária.
     1. Checar se existe uma pasta chamada Maildir
-    ![Comando LS](/pictures/ls.png)
+    ![Comando LS](/ls.png)
 Format: ![Alt Text](url) 
     1. 
