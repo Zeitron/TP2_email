@@ -29,8 +29,8 @@ para operar o sistema.
     
 ### Command Line
     `cat <caminho do txt> | mail -s '<assunto>' -r <remetente> <user@email.com>`
-    -s: Assunto do email
-    -r: Remetente, por padrão será o usuário em que está logado.
-    user@email.com: A conta que se deseja enviar o email. Caso deseje enviar para outro usuário basta colocar user@ubuntu16046 (ex.: admin@ubuntu16046).
+   -s: Assunto do email
+   -r: Remetente, por padrão será o usuário em que está logado.
+   user@email.com: A conta que se deseja enviar o email. Caso o destinatário seja outro usuário, da mesma máquina, basta colocar user@ubuntu16046 (ex.: admin@ubuntu16046).
 
 ### Telnet
