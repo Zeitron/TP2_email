@@ -72,5 +72,5 @@ O comando `h` mostra novamente a lista de mensagens
 
 Digite `q` para sair da interface
 
-## Manipulando os arquivos
-Os dados de envio e recebimento estão disponíveis em `~/Maildir/` dentro desse diretorio é possível encontrar os dados necessários para os testes.
+## Acesso aos arquivos
+Dentro do diretorio `~/Maildir` é possível encontrar os dados de envio e recebimento de email.
